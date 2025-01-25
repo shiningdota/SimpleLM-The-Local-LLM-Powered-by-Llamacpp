@@ -12,7 +12,7 @@ pip install streamlit openai sentence-transformers nltk numpy PyPDF2 python-docx
 2. To install this project, you can download the package and extract them, or using 'git clone':
 
 ```bash
-git clone https://github.com/shiningdota/simplelmchatbot
+git clone https://github.com/shiningdota/SimpleLM-The-Local-LLM-Powered-by-Llamacpp.git
 ```
 
 ## How to use
