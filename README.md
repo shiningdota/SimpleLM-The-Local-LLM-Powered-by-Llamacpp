@@ -1,4 +1,5 @@
 # SimpleLM Chatbot and RAG system with Streamlit UI + Llamacpp
+![SimpleLM Screenshot](https://github.com/user-attachments/assets/31efc84e-105a-4030-a11d-33d39de04af7)
 
 ## Overview
 I make simple ui to use a Chatbot and also had RAG (Retrieval Augemted Generation) feature. This project using Llamacpp+Vulkan as the main backend for LLM, Streamlit for the UI, Combining the SentenceTransformers for embedding, and also support the OpenAI API
