@@ -9,7 +9,9 @@ I make simple ui to use a Chatbot and also had RAG (Retrieval Augemted Generatio
 pip install streamlit openai sentence-transformers nltk numpy PyPDF2 python-docx
 ```
 
-2. To install this project, you can download the package and extract them, or using 'git clone':
+2. To install this project you have 2 options:
+- You can download the package from release page and extract them
+- Or using 'git clone':
 
 ```bash
 git clone https://github.com/shiningdota/SimpleLM-The-Local-LLM-Powered-by-Llamacpp.git
